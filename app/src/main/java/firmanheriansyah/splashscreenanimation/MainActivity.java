@@ -40,7 +40,7 @@ public class MainActivity extends AwesomeSplash {
         configSplash.setTitleTextColor(R.color.colorAccent); // Setting color text
         configSplash.setTitleTextSize(30f); //float value
         configSplash.setAnimTitleDuration(2000); //float value
-        configSplash.setAnimTitleTechnique(Techniques.FadeIn);
+        configSplash.setAnimTitleTechnique(Techniques.FadeIn); // Setting animation
 
     }
 
