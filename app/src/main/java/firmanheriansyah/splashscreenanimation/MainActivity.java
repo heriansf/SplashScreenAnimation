@@ -36,7 +36,7 @@ public class MainActivity extends AwesomeSplash {
         configSplash.setPathSplashFillColor(R.color.colorAccent); //path object filling color
 
         //Customize Title/
-        configSplash.setTitleSplash("FIRMAN HERIANSYAH");
+        configSplash.setTitleSplash("FIRMAN HERIANSYAH"); // Setting title splashscreen
         configSplash.setTitleTextColor(R.color.colorAccent);
         configSplash.setTitleTextSize(30f); //float value
         configSplash.setAnimTitleDuration(2000);
