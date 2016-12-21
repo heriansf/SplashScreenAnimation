@@ -39,7 +39,7 @@ public class MainActivity extends AwesomeSplash {
         configSplash.setTitleSplash("FIRMAN HERIANSYAH"); // Setting title splashscreen
         configSplash.setTitleTextColor(R.color.colorAccent); // Setting color text
         configSplash.setTitleTextSize(30f); //float value
-        configSplash.setAnimTitleDuration(2000);
+        configSplash.setAnimTitleDuration(2000); //float value
         configSplash.setAnimTitleTechnique(Techniques.FadeIn);
 
     }
